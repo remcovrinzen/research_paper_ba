@@ -1,5 +1,4 @@
-### Research Paper Master Business Analytics 
+### Research Paper Master Business Analytics (Year 1)
 
-Author: Remco Vrinzen  
-Supervisor: Rob van der Mei  
-Year: 2018  
+Example Python code written in first year of master
+
