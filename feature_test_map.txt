@@ -1,0 +1,161 @@
+f0 age  q
+f1 gender_-unknown-  q
+f2 gender_FEMALE  q
+f3 gender_MALE  q
+f4 gender_OTHER  q
+f5 signup_method_basic  q
+f6 signup_method_facebook  q
+f7 signup_method_google  q
+f8 signup_method_weibo  q
+f9 signup_flow_0  q
+f10 signup_flow_1  q
+f11 signup_flow_2  q
+f12 signup_flow_3  q
+f13 signup_flow_4  q
+f14 signup_flow_5  q
+f15 signup_flow_6  q
+f16 signup_flow_8  q
+f17 signup_flow_10  q
+f18 signup_flow_12  q
+f19 signup_flow_14  q
+f20 signup_flow_15  q
+f21 signup_flow_16  q
+f22 signup_flow_20  q
+f23 signup_flow_21  q
+f24 signup_flow_23  q
+f25 signup_flow_24  q
+f26 signup_flow_25  q
+f27 language_-unknown-  q
+f28 language_ca  q
+f29 language_cs  q
+f30 language_da  q
+f31 language_de  q
+f32 language_el  q
+f33 language_en  q
+f34 language_es  q
+f35 language_fi  q
+f36 language_fr  q
+f37 language_hr  q
+f38 language_hu  q
+f39 language_id  q
+f40 language_is  q
+f41 language_it  q
+f42 language_ja  q
+f43 language_ko  q
+f44 language_nl  q
+f45 language_no  q
+f46 language_pl  q
+f47 language_pt  q
+f48 language_ru  q
+f49 language_sv  q
+f50 language_th  q
+f51 language_tr  q
+f52 language_zh  q
+f53 affiliate_channel_api  q
+f54 affiliate_channel_content  q
+f55 affiliate_channel_direct  q
+f56 affiliate_channel_other  q
+f57 affiliate_channel_remarketing  q
+f58 affiliate_channel_sem-brand  q
+f59 affiliate_channel_sem-non-brand  q
+f60 affiliate_channel_seo  q
+f61 affiliate_provider_baidu  q
+f62 affiliate_provider_bing  q
+f63 affiliate_provider_craigslist  q
+f64 affiliate_provider_daum  q
+f65 affiliate_provider_direct  q
+f66 affiliate_provider_email-marketing  q
+f67 affiliate_provider_facebook  q
+f68 affiliate_provider_facebook-open-graph  q
+f69 affiliate_provider_google  q
+f70 affiliate_provider_gsp  q
+f71 affiliate_provider_meetup  q
+f72 affiliate_provider_naver  q
+f73 affiliate_provider_other  q
+f74 affiliate_provider_padmapper  q
+f75 affiliate_provider_vast  q
+f76 affiliate_provider_wayn  q
+f77 affiliate_provider_yahoo  q
+f78 affiliate_provider_yandex  q
+f79 first_affiliate_tracked_-1  q
+f80 first_affiliate_tracked_linked  q
+f81 first_affiliate_tracked_local ops  q
+f82 first_affiliate_tracked_marketing  q
+f83 first_affiliate_tracked_omg  q
+f84 first_affiliate_tracked_product  q
+f85 first_affiliate_tracked_tracked-other  q
+f86 first_affiliate_tracked_untracked  q
+f87 signup_app_Android  q
+f88 signup_app_Moweb  q
+f89 signup_app_Web  q
+f90 signup_app_iOS  q
+f91 first_device_type_Android Phone  q
+f92 first_device_type_Android Tablet  q
+f93 first_device_type_Desktop (Other)  q
+f94 first_device_type_Mac Desktop  q
+f95 first_device_type_Other/Unknown  q
+f96 first_device_type_SmartPhone (Other)  q
+f97 first_device_type_Windows Desktop  q
+f98 first_device_type_iPad  q
+f99 first_device_type_iPhone  q
+f100 first_browser_-unknown-  q
+f101 first_browser_AOL Explorer  q
+f102 first_browser_Android Browser  q
+f103 first_browser_Apple Mail  q
+f104 first_browser_Arora  q
+f105 first_browser_Avant Browser  q
+f106 first_browser_BlackBerry Browser  q
+f107 first_browser_Camino  q
+f108 first_browser_Chrome  q
+f109 first_browser_Chrome Mobile  q
+f110 first_browser_Chromium  q
+f111 first_browser_CometBird  q
+f112 first_browser_Comodo Dragon  q
+f113 first_browser_Conkeror  q
+f114 first_browser_CoolNovo  q
+f115 first_browser_Crazy Browser  q
+f116 first_browser_Epic  q
+f117 first_browser_Firefox  q
+f118 first_browser_Flock  q
+f119 first_browser_Google Earth  q
+f120 first_browser_Googlebot  q
+f121 first_browser_IBrowse  q
+f122 first_browser_IE  q
+f123 first_browser_IE Mobile  q
+f124 first_browser_IceDragon  q
+f125 first_browser_IceWeasel  q
+f126 first_browser_Iron  q
+f127 first_browser_Kindle Browser  q
+f128 first_browser_Maxthon  q
+f129 first_browser_Mobile Firefox  q
+f130 first_browser_Mobile Safari  q
+f131 first_browser_Mozilla  q
+f132 first_browser_NetNewsWire  q
+f133 first_browser_Nintendo Browser  q
+f134 first_browser_OmniWeb  q
+f135 first_browser_Opera  q
+f136 first_browser_Opera Mini  q
+f137 first_browser_Opera Mobile  q
+f138 first_browser_Outlook 2007  q
+f139 first_browser_PS Vita browser  q
+f140 first_browser_Pale Moon  q
+f141 first_browser_Palm Pre web browser  q
+f142 first_browser_RockMelt  q
+f143 first_browser_Safari  q
+f144 first_browser_SeaMonkey  q
+f145 first_browser_Silk  q
+f146 first_browser_SiteKiosk  q
+f147 first_browser_SlimBrowser  q
+f148 first_browser_Sogou Explorer  q
+f149 first_browser_Stainless  q
+f150 first_browser_TenFourFox  q
+f151 first_browser_TheWorld Browser  q
+f152 first_browser_UC Browser  q
+f153 first_browser_Yandex.Browser  q
+f154 first_browser_wOSBrowser  q
+f155 dac_year  q
+f156 dac_mounth  q
+f157 dac_day  q
+f158 tfa_year  q
+f159 tfa_month  q
+f160 tfa_day  q
